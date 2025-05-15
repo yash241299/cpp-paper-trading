@@ -1,0 +1,7 @@
+# C++
+build/
+*.o
+*.d
+# Node/React
+frontend/app/node_modules/
+frontend/app/build/

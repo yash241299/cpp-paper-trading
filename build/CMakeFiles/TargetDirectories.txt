@@ -1,0 +1,5 @@
+/Users/Shared/Visual Studio Code/OCD/cpp-paper-trading/build/CMakeFiles/trading_engine.dir
+/Users/Shared/Visual Studio Code/OCD/cpp-paper-trading/build/CMakeFiles/OrderEngineTests.dir
+/Users/Shared/Visual Studio Code/OCD/cpp-paper-trading/build/CMakeFiles/test.dir
+/Users/Shared/Visual Studio Code/OCD/cpp-paper-trading/build/CMakeFiles/edit_cache.dir
+/Users/Shared/Visual Studio Code/OCD/cpp-paper-trading/build/CMakeFiles/rebuild_cache.dir
